@@ -25,11 +25,11 @@ The guide associated with creating that can be found here:
 
 To start it up:
 
-a) ### `Git clone` it
+a) `Git clone` it
 
-b) ### `yarn` or ### `npm i` to install dependencies
+b) `yarn` or `npm i` to install dependencies
 
-c) ### `yarn start` or ### `npm start`
+c) `yarn start` or `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
