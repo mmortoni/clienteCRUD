@@ -789,7 +789,7 @@ class ClienteCrud extends Component {
 }
 
 ClienteCrud.propTypes = {
-  cliente,
+  cliente: PropTypes.shape(cliente).isRequired,
   clienteCrudModals: PropTypes.number.isRequired,
   actionSide: PropTypes.string,
   closeModal: PropTypes.func,
